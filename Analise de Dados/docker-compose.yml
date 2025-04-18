@@ -1,4 +1,3 @@
-# Serviços (containers)
 services:
   # Jupyter Notebook
   jupyter:
