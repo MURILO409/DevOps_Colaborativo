@@ -32,3 +32,5 @@ volumes:
 networks:
   data-network:  # Rede personalizada para comunicação entre containers
 
+  #docker compose proxima aula: docker compose up
+
