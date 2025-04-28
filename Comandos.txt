@@ -1,0 +1,17 @@
+docker compose up -d
+docker ps
+docker ps -a
+
+docker logs analise_de_dados-jupyter-1
+http://127.0.0.1:8888/lab
+
+http://127.0.0.1:8080/
+servername: postgres
+     POSTGRES_USER: user
+     POSTGRES_PASSWORD: senha
+     POSTGRES_DB: data_db
+
+choco -v
+choco install terrform
+terraform -v
+terraform .exe
