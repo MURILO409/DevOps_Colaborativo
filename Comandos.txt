@@ -18,3 +18,10 @@ terraform .exe
 
 docker ps
 docker logs jupyter_notebook
+
+https://dontpad.com/devops-uc1
+
+env   = [
+    "JUPYTER_TOKEN=${var.jupyter_password}", 
+    "JUPYTER_ENABLE_LAB=yes"
+  ]
