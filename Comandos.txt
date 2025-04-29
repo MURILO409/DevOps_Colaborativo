@@ -15,3 +15,6 @@ choco -v
 choco install terrform
 terraform -v
 terraform .exe
+
+docker ps
+docker logs jupyter_notebook
